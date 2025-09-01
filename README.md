@@ -58,21 +58,10 @@ RedVector/
 
 Run the scanner:  
 ```bash
-python redvector.py -u https://example.com
+python RedVector.py
 ```
-
-Options (coming soon):  
-- `-u` : Target URL  
-- `--sqli` : Run only SQL Injection tests  
-- `--xss` : Run only XSS tests  
 
 ---
-
-## Example  
-
-```bash
-python redvector.py -u https://testphp.vulnweb.com
-```
 
 Output:  
 ```
